@@ -7,6 +7,8 @@ array except the one at i
 Run Time : O(N)
 Space : O(1)
 
+When not allowed to use division: use prefix and suffix product
+
 """
 
 
